@@ -24,13 +24,23 @@ Customer Management
 
 ## Tables presented
 | `Customers`       | Stores info about people renting cars                        |
+
 | `Cars`            | Car inventory with status (Available, Rented, Maintenance)   |
+
 | `Locations`       | Rental locations with addresses and contact info             |
+
 | `Rentals`         | Every rental event (who, what, where, when, and how much)    |
+
 | `Payments`        | Tracks how payments were made and how much                   |
+
 | `Maintenance`     | Maintenance logs for cars needing repairs                    |
+
 | `Insurance`       | Details about insurance coverage per rental                  |
+
 | `Staff`           | Employee roster (who’s working where)                        |
+
 | `Reviews`         | Star ratings + text reviews from customers                   |
+
 | `VehicleFeatures` | Shows off the features of the car like sunroofs and autopilot|
+
 | `CarStatusLogs`   | Logs whenever a car's status changes (via the Trigger)       |
