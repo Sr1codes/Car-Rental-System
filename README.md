@@ -23,7 +23,6 @@ Customer Management
 - Views, Queries, Triggers, and Stored Procedures
 
 ## Tables presented
-| ----------------- | ------------------------------------------------------------ |
 | `Customers`       | Stores info about people renting cars                        |
 | `Cars`            | Car inventory with status (Available, Rented, Maintenance)   |
 | `Locations`       | Rental locations with addresses and contact info             |
