@@ -4,20 +4,20 @@ This is my project on creating a car rental management database in mySQL. It mod
 This project handles:
 It handles:
 
-    Customer Management
+Customer Management
 
-    Car Inventory + Features
+- Car Inventory + Features
 
-     Rental Locations
+- Rental Locations
 
-     Rental Transactions
+- Rental Transactions
 
-     Payments + Insurance
+- Payments + Insurance
 
-     Maintenance Logs
+- Maintenance Logs
 
-    Staff Directory
+- Staff Directory
 
-     Customer Reviews
+- Customer Reviews
 
-    Views, Queries, Triggers, and even Stored Procedures
+- Views, Queries, Triggers, and Stored Procedures
