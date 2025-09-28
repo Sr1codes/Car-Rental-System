@@ -57,5 +57,6 @@ Customer Management
 
 ## ER Diagram
 This ER diagram organizes all the key information for a car rental company. It shows how customers, cars, rentals, payments, maintenance, and reviews are connected. Each rental links a customer, a car, and pick-up and drop-off locations. Payments and insurance are tied to specific rentals, while maintenance and status logs keep track of each car’s condition. Staff and reviews are also included, making it easy to manage all parts of the rental process. 
+
 <img width="1188" height="1259" alt="ER_UPDATED_CAR_SRI" src="https://github.com/user-attachments/assets/f941659d-e59e-4f1a-8335-b5d2782a4f2d" />
 
